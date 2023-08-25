@@ -90,3 +90,4 @@ class DictionaryViewModel @Inject constructor(
             )
         }
     }
+}
